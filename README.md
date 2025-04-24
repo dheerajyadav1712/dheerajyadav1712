@@ -13,7 +13,6 @@
 - 🎓 **BSc IT Student** | Passionate about **Web Development, AI & Data Analysis**
 - 💡 Building smart solutions with a fusion of **Tech + Creativity**
 - 🧠 Always learning and exploring the latest in **Tech, Design & Analytics**
-- 📌 **Recent Project:** [Facial Emotion Detection](https://github.com/dheerajyadav1712/Facial-Expression-Detection)
 - 🏆 **Achievements:** Winner of Multiple Competitions 🏅
 - 📧 **Contact:** yadavdheeraj1712@gmail.com
 
